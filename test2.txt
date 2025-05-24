@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Created test2.txt file
+=======
+Created a file module
+>>>>>>> d351bbd (Modified test2.txt)
